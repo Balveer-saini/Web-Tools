@@ -1,0 +1,22 @@
+.container{
+    padding-top: 15%;
+    border: 2px;
+    text-align: center;
+}
+
+.uppercase{
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lowercase{
+    padding: 5px 5px 5px 5px;
+    margin: 5px 5px 5px 5px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.uppercaset{
+    margin-top: 20px;
+}
